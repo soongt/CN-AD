@@ -5,10 +5,6 @@
     items:
       - name: 产品概述
         href: Introduction/Product-Overview.md
-      - name: 核心概念
-        href: Introduction/Core-Concepts.md
-      - name: 基础架构
-        href: Introduction/Basic-Infrastructure.md
       - name: 产品优势
         href: Introduction/Benefits.md
       - name: 产品规格
