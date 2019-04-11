@@ -39,3 +39,4 @@ http://download.microsoft.com/download/0/9/9/099E0C83-072B-42A5-83A0-9BB3D2E6E2A
 
 ![连接实例7](../../../../../image/RDS/Client-Connect-7.png)
 
+
